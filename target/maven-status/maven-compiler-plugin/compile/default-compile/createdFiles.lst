@@ -1,0 +1,10 @@
+com\zaleskix\app\App.class
+com\zaleskix\app\util\readers\ReadDataFromTextFile.class
+com\zaleskix\app\util\validators\ValidatorTextFile.class
+com\zaleskix\app\util\UserDataProcessor.class
+com\zaleskix\app\util\readers\IReadDataFromFile.class
+com\zaleskix\app\models\InstructionsKeywords.class
+com\zaleskix\app\Calculator$1.class
+com\zaleskix\app\models\Instruction.class
+com\zaleskix\app\Calculator.class
+com\zaleskix\app\util\validators\IValidator.class
