@@ -8,6 +8,11 @@ Aplikacja stworzona zgodnie z zadaniem rekrutacyjnym.
     * W razie błedów usunąc folder .m2 
 #### Przetestowane na systemie Windows oraz Linux Ubuntu
 
+
+-----------------------
+### Tresc zadania
+
+![zadanie](https://i.ibb.co/DM7mbkB/Przechwytywanie.png)
 -----------------------
 
 ### Edycja parametrow programu
